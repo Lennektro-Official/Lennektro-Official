@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lennektro-Official
+- 👋 Hi, I’m Lennektro
 - 👀 I’m interested in minecraft, java, javascript, p5.js, game development and much more
 - 🌱 I’m currently learning c
 
